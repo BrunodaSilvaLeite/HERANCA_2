@@ -2,10 +2,12 @@
 
 ## 🚀 Começando
 
-Uma empresa possui como clientes pessoas físicas e jurídicas. Uma pessoa física possui nome, cpf, endereço e e-mail, enquanto uma pessoa jurídica possui nome, cnpj, endereço e email.
-Há ainda a necessidade de cadastrar seus funcionários, onde cada funcionário possui nome, cpf, endereço e salário.
-Crie classes adequadas para cada necessidade.
-Teste as classes criando vários objetos.
+Uma empresa necessita de um sistema informatizado. Nesse sistema serão cadastrados todos os vendedores, gerentes e clientes.
+Os dados de um vendedor são: nome, cpf, data de nascimento, data de contratação, salário base, e percentual de comissão.
+Os dados de um gerente são:  nome, cpf, data de nascimento, data de contratação, salário base, e departamento.
+Os dados de um cliente são:  nome, cpf, data de nascimento, email, número cartão de fidelidade e telefone.
+Crie classes adequadas a esses dados.
+Todas as classes devem ter seus atributos encapsulados e métodos construtores. 
 
 ### 📋 Pré-requisitos
 - JAVA
