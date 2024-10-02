@@ -2,11 +2,10 @@
 
 ## 🚀 Começando
 
-Crie uma classe conta bancária da qual o atributo saldo é encapsulado e seu valor será acessado por meio dos métodos, depósito, saque e consulta.
-
-Para cada depósito deve ser cobrado uma taxa de 1%.
-Para cada saque deve ser cobrado uma taxa de 0,5%.
-A cada 5 consultas, será cobrado uma taxa de 0,10 centavos.
+Uma empresa possui como clientes pessoas físicas e jurídicas. Uma pessoa física possui nome, cpf, endereço e e-mail, enquanto uma pessoa jurídica possui nome, cnpj, endereço e email.
+Há ainda a necessidade de cadastrar seus funcionários, onde cada funcionário possui nome, cpf, endereço e salário.
+Crie classes adequadas para cada necessidade.
+Teste as classes criando vários objetos.
 
 ### 📋 Pré-requisitos
 - JAVA
