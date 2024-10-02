@@ -25,5 +25,5 @@ Ferramentas utilizadas e bibliotecas
 
 ## ✒️ Autores
 
-* **Bruno** - Atividade individual - Lista de Exercícios AC2 - HERANÇA 1/4
+* **Bruno** - Atividade individual - Lista de Exercícios AC2 - HERANÇA 2/4
 
